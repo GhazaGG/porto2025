@@ -1,6 +1,6 @@
-# Portfolio Website - Takuya Matsuyama
+# Portfolio Website - GhazaGG
 
-A modern, minimalist portfolio website built with React.js and Framer Motion, inspired by Takuya Matsuyama's design aesthetic.
+A modern, minimalist portfolio website built with React.js and Framer Motion.
 
 ## Features
 
