@@ -40,23 +40,23 @@ const Contact: React.FC = () => {
       icon: Mail,
       title: 'Email',
       description: 'Drop me a line anytime',
-      value: 'hello@ghazagg.dev',
-      href: 'mailto:hello@ghazagg.dev',
+      value: 'ghazagg7@gmail.com',
+      href: 'mailto:ghazagg7@gmail.com',
       color: 'text-blue-500'
     },
     {
       icon: Phone,
       title: 'Phone',
       description: 'Call me for urgent matters',
-      value: '+1 (555) 123-4567',
-      href: 'tel:+15551234567',
+      value: '+62 897-5825-128',
+      href: 'tel:+628975825128',
       color: 'text-green-500'
     },
     {
       icon: MapPin,
       title: 'Location',
       description: 'Based in',
-      value: 'Jakarta, Indonesia',
+      value: 'Purwokerto, Indonesia',
       href: '#',
       color: 'text-red-500'
     }
